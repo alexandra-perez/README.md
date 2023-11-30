@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @alexandra-perez.
+- 💻 I'm a software engineering fellow at Pursuit!
+-  🧠 I’m currently perfecting my Javascript skills and building projects in my free time.
